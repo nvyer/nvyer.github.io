@@ -5,4 +5,4 @@ This project was created using only HTML & CSS.
 
 The deployment is done with GitHub Pages.
 
-[Click here](https://nvyer.github.io/) to visit.
+[Click here](https://nvyer.github.io/wildLife-website/) to visit.
